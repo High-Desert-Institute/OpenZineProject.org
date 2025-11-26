@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: CJ Trowbridge
+title: Open Zine Project
 ---
 
 ## Permaculture
