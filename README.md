@@ -3,7 +3,7 @@ layout: project
 title: "Open Zine Project"
 slug: open-zine-project
 guilds:
-	- lorekeepers
+    - lorekeepers
 link: "https://github.com/High-Desert-Institute/OpenZineProject.org"
 summary: >-
 	An open library of zines covering permaculture, mutual aid, and community resilience.
