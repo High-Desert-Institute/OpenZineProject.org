@@ -6,7 +6,7 @@ guilds:
     - lorekeepers
 link: "https://github.com/High-Desert-Institute/OpenZineProject.org"
 summary: >-
-	An open library of zines covering permaculture, mutual aid, and community resilience.
+    An open library of zines covering permaculture, mutual aid, and community resilience.
 ---
 
 # OpenZineProject.org
