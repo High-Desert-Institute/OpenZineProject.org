@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Open Zine Project
-link: "https://github.com/High-Desert-Institute/OpenZineProject.org"
+link: "https://OpenZineProject.org"
 ---
 
 ## Permaculture
