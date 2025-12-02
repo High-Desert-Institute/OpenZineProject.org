@@ -1,7 +1,12 @@
 ---
 layout: homepage
 title: Open Zine Project
+slug: open-zine-project
+guilds:
+	- lorekeepers
 link: "https://OpenZineProject.org"
+summary: >-
+	An open library of zines covering permaculture, mutual aid, and community resilience.
 ---
 
 ## Permaculture
